@@ -1,0 +1,7 @@
+Burhan1925
+
+# Hesaptan çıkış yapılır.
+* "ProfileNavCategory" 'li elemente tıklanır.
+* "2" saniye kadar beklenir.
+* "LogoutAccount" 'li elemente tıklanır.
+//* "EndLogOutAccountButton" 'li elemente tıklanır.

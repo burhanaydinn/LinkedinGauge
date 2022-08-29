@@ -1,0 +1,25 @@
+Burhan1925
+
+# Profile pozisyon/iş bilgileri eklenir.
+* "1" saniye kadar beklenir.
+* "AddInformationToProfile" 'li elemente tıklanır.
+* "AddWorkToProfile" 'li elemente tıklanır.
+* "TitleToWork" 'li elemente "Software Testing Specialist" degeri girilir.
+* "2" saniye kadar beklenir.
+* "DropdownWorkTitle" 'li elemente tıklanır.
+* "DropdownTypeOfWork" 'li elemente tıklanır.
+* "SelectTypeOfWork" 'li elemente tıklanır.
+* "AddCompanyName" 'li elemente "Testinium" degeri girilir.
+* "2" saniye kadar beklenir.
+* "DropdownCompanyName" 'li elemente tıklanır.
+* "AddLocationToWork" 'li elemente "İzmir" degeri girilir.
+* "2" saniye kadar beklenir.
+* "DropdownLocation" 'li elemente tıklanır.
+* "StartDateMonthWork" 'li elemente tıklanır.
+* "SelectStartDateMountWork" 'li elemente tıklanır.
+* "StartDateYearWork" 'li elemente tıklanır.
+* "SelectStartDateYearWork" 'li elemente tıklanır.
+* "DescriptionWork" 'li elemente "Testinium şirketinde Yardımcı Yazılım Test Uzmanı olarak işe başladım. Bu süreçte ISTQB, Agile Testing, Java, Selenium, Appium, Gauge, Cucumber, Karate, Postman, Jira, SQL konularında Testinium tarafından eğitimler alıp kendimi geliştirmeye başladım. " degeri girilir.
+* "2" saniye kadar beklenir.
+* "SaveButtonProfile" 'li elemente tıklanır.
+* "SkipButtonPageWork" 'li elemente tıklanır.

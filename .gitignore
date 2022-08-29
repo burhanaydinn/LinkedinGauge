@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/.idea
+/target
+/out
+/reports
+/logs/*.out
+/logs/api.log
+/logs/gauge.log
+/specs/Test.spec
+/*.iml
+.gauge

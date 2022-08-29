@@ -1,0 +1,13 @@
+Burhan1925
+
+# Profile eklenen bilgiler görüntülenir/incelenir.
+* "AboutSeeMore" elementinin üzerinde durulur.
+* "3" saniye kadar beklenir.
+* "AboutSeeMoreText" 'li elemente tıklanır.
+* "3" saniye kadar beklenir.
+* "WorkSeeMore" elementinin üzerinde durulur.
+* "3" saniye kadar beklenir.
+* "WorkSeeMoreText" 'li elemente tıklanır.
+* "3" saniye kadar beklenir.
+* "CertificateOfCompetency" elementinin üzerinde durulur.
+* "3" saniye kadar beklenir.

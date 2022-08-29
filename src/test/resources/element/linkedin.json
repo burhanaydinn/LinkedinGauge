@@ -1,0 +1,382 @@
+[
+  {
+    "keyword": "LoginAccountButton",
+    "locatorType": "css",
+    "locatorValue": "[class='nav__button-secondary btn-md btn-secondary-emphasis']"
+  },
+  {
+    "keyword": "LoginEmailLinkedin",
+    "locatorType": "id",
+    "locatorValue": "username"
+  },
+  {
+    "keyword": "LoginPasswordLinkedin",
+    "locatorType": "id",
+    "locatorValue": "password"
+  },
+  {
+    "keyword": "SingInButtonLinkedin",
+    "locatorType": "css",
+    "locatorValue": "[class='btn__primary--large from__button--floating']"
+  },
+  {
+    "keyword": "CloseMessageButton",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@type='chevron-down'])[3]"
+  },
+  {
+    "keyword": "ProfileNavCategory",
+    "locatorType": "css",
+    "locatorValue": "[class='global-nav__me-photo ember-view']"
+  },
+  {
+    "keyword": "ViewProfile",
+    "locatorType": "xpath",
+    "locatorValue": "//a[text()='Profili Görüntüleyin']"
+  },
+  {
+    "keyword": "AddInformationToProfile",
+    "locatorType": "xpath",
+    "locatorValue": "(//span[text()='Profil bölümü ekle'])[2]"
+  },
+  {
+    "keyword": "AddAboutToProfile",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='Hakkında bölümü ekle']"
+  },
+  {
+    "keyword": "SummaryProfile",
+    "locatorType": "id",
+    "locatorValue": "multiline-text-form-component-profileEditFormElement-SUMMARY-profile-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-summary"
+  },
+  {
+    "keyword": "SaveButtonProfile",
+    "locatorType": "css",
+    "locatorValue": "[class='artdeco-button artdeco-button--2 artdeco-button--primary ember-view']"
+  },
+  {
+    "keyword": "AddEducationToProfile",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='Eğitim ekle']"
+  },
+  {
+    "keyword": "SchoolNameToEducation",
+    "locatorType": "id",
+    "locatorValue": "single-typeahead-entity-form-component-profileEditFormElement-EDUCATION-profileEducation-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-school"
+  },
+  {
+    "keyword": "BachelorDegreeToEducation",
+    "locatorType": "id",
+    "locatorValue": "single-typeahead-entity-form-component-profileEditFormElement-EDUCATION-profileEducation-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-degree"
+  },
+  {
+    "keyword": "DepartmentNameToEducation",
+    "locatorType": "id",
+    "locatorValue": "single-typeahead-entity-form-component-profileEditFormElement-EDUCATION-profileEducation-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-fieldsOfStudy"
+  },
+  {
+    "keyword": "StartDateMonthEducation",
+    "locatorType": "id",
+    "locatorValue": "date-range-form-component-profileEditFormElement-EDUCATION-profileEducation-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-dateRange-start-date"
+  },
+  {
+    "keyword": "StartDateYearEducation",
+    "locatorType": "id",
+    "locatorValue": "date-range-form-component-profileEditFormElement-EDUCATION-profileEducation-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-dateRange-start-date-year-select"
+  },
+  {
+    "keyword": "EndDateMonthEducation",
+    "locatorType": "id",
+    "locatorValue": "date-range-form-component-profileEditFormElement-EDUCATION-profileEducation-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-dateRange-end-date"
+  },
+  {
+    "keyword": "EndDateYearEducation",
+    "locatorType": "id",
+    "locatorValue": "date-range-form-component-profileEditFormElement-EDUCATION-profileEducation-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-dateRange-end-date-year-select"
+  },
+  {
+    "keyword": "SelectStartDateMonth",
+    "locatorType": "xpath",
+    "locatorValue": "(//option[text()='Eylül'])[1]"
+  },
+  {
+    "keyword": "SelectStartDateYear",
+    "locatorType": "xpath",
+    "locatorValue": "(//option[text()='2018'])[1]"
+  },
+  {
+    "keyword": "SelectEndDateMonth",
+    "locatorType": "xpath",
+    "locatorValue": "(//option[text()='Temmuz'])[2]"
+  },
+  {
+    "keyword": "SelectEndDateYear",
+    "locatorType": "xpath",
+    "locatorValue": "(//option[text()='2022'])[2]"
+  },
+  {
+    "keyword": "GradeEducation",
+    "locatorType": "id",
+    "locatorValue": "single-line-text-form-component-profileEditFormElement-EDUCATION-profileEducation-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-grade"
+  },
+  {
+    "keyword": "DropdownSchoolName",
+    "locatorType": "xpath",
+    "locatorValue": "(//span[@class='search-typeahead-v2__hit-text t-14 t-black t-bold'])[1]"
+  },
+  {
+    "keyword": "DropdownBachelorDegree",
+    "locatorType": "css",
+    "locatorValue": "[class='search-typeahead-v2__hit-text t-14 t-black t-bold']"
+  },
+  {
+    "keyword": "DropdownDepartmentName",
+    "locatorType": "xpath",
+    "locatorValue": "(//span[@class='search-typeahead-v2__hit-text t-14 t-black t-bold'])[1]"
+  },
+  {
+    "keyword": "ActivitiesNameEducation",
+    "locatorType": "id",
+    "locatorValue": "multiline-text-form-component-profileEditFormElement-EDUCATION-profileEducation-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-activities"
+  },
+  {
+    "keyword": "DescriptionEducation",
+    "locatorType": "id",
+    "locatorValue": "multiline-text-form-component-profileEditFormElement-EDUCATION-profileEducation-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-notes"
+  },
+  {
+    "keyword": "AddWorkToProfile",
+    "locatorType": "xpath",
+    "locatorValue": "(//span[text()='Pozisyon ekle'])[1]"
+  },
+  {
+    "keyword": "TitleToWork",
+    "locatorType": "id",
+    "locatorValue": "single-typeahead-entity-form-component-profileEditFormElement-POSITION-profilePosition-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-title"
+  },
+  {
+    "keyword": "DropdownWorkTitle",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='Software Testing Specialist']"
+  },
+  {
+    "keyword": "DropdownTypeOfWork",
+    "locatorType": "id",
+    "locatorValue": "text-entity-list-form-component-profileEditFormElement-POSITION-profilePosition-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-employmentStatus"
+  },
+  {
+    "keyword": "SelectTypeOfWork",
+    "locatorType": "xpath",
+    "locatorValue": "//option[text()='Tam zamanlı']"
+  },
+  {
+    "keyword": "AddCompanyName",
+    "locatorType": "id",
+    "locatorValue": "single-typeahead-entity-form-component-profileEditFormElement-POSITION-profilePosition-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-requiredCompany"
+  },
+  {
+    "keyword": "DropdownCompanyName",
+    "locatorType": "css",
+    "locatorValue": "[class='search-typeahead-v2__hit-text t-14 t-black t-bold']"
+  },
+  {
+    "keyword": "AddLocationToWork",
+    "locatorType": "id",
+    "locatorValue": "single-typeahead-entity-form-component-profileEditFormElement-POSITION-profilePosition-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-geoPositionLocation"
+  },
+  {
+    "keyword": "DropdownLocation",
+    "locatorType": "xpath",
+    "locatorValue": "(//span[text()='İzmir, Türkiye'])[1]"
+  },
+  {
+    "keyword": "StartDateMonthWork",
+    "locatorType": "id",
+    "locatorValue": "date-range-form-component-profileEditFormElement-POSITION-profilePosition-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-dateRange-start-date"
+  },
+  {
+    "keyword": "StartDateYearWork",
+    "locatorType": "id",
+    "locatorValue": "date-range-form-component-profileEditFormElement-POSITION-profilePosition-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-dateRange-start-date-year-select"
+  },
+  {
+    "keyword": "SelectStartDateMountWork",
+    "locatorType": "xpath",
+    "locatorValue": "(//option[text()='Mayıs'])[1]"
+  },
+  {
+    "keyword": "SelectStartDateYearWork",
+    "locatorType": "xpath",
+    "locatorValue": "(//option[text()='2022'])[1]"
+  },
+  {
+    "keyword": "DescriptionWork",
+    "locatorType": "id",
+    "locatorValue": "multiline-text-form-component-profileEditFormElement-POSITION-profilePosition-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-description"
+  },
+  {
+    "keyword": "SkipButtonPageWork",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='Geç']"
+  },
+  {
+    "keyword": "AddTalentToProfile",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='Yetenek ekle']"
+  },
+  {
+    "keyword": "TalentName",
+    "locatorType": "id",
+    "locatorValue": "single-typeahead-entity-form-component-profileEditFormElement-SKILL-AND-ASSOCIATION-skill-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-name"
+  },
+  {
+    "keyword": "DropdownTalentJava",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='Java']"
+  },
+  {
+    "keyword": "TalentJavaCheckBox",
+    "locatorType": "xpath",
+    "locatorValue": "//label[@data-test-text-selectable-option__label='Software Testing Specialist - Testinium']"
+  },
+  {
+    "keyword": "DropdownTalentTestAutomation",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='Test Otomasyonu']"
+  },
+  {
+    "keyword": "NoAddTalentToProfile",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='Hayır, teşekkürler']"
+  },
+  {
+    "keyword": "TalentAutomationCheckBox",
+    "locatorType": "xpath",
+    "locatorValue": "//label[@data-test-text-selectable-option__label='Software Testing Specialist - Testinium']"
+  },
+  {
+    "keyword": "SectionButtonDropdown",
+    "locatorType": "xpath",
+    "locatorValue": "(//li-icon[@class='pv-goals__section-button'])[2]"
+  },
+  {
+    "keyword": "AddCertificateToProfile",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='Lisans ve sertifika ekle']"
+  },
+  {
+    "keyword": "CertificateName",
+    "locatorType": "id",
+    "locatorValue": "single-typeahead-entity-form-component-profileEditFormElement-CERTIFICATION-profileCertification-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-name"
+  },
+  {
+    "keyword": "DropdownCertificate",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='Yazılım Test Otomasyonu']"
+  },
+  {
+    "keyword": "CompanyNameCertificate",
+    "locatorType": "id",
+    "locatorValue": "single-typeahead-entity-form-component-profileEditFormElement-CERTIFICATION-profileCertification-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-company"
+  },
+  {
+    "keyword": "DropdownCompanyNameCertificate",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='BTK Akademi']"
+  },
+  {
+    "keyword": "TakeDateMountCertificate",
+    "locatorType": "id",
+    "locatorValue": "date-range-form-component-profileEditFormElement-CERTIFICATION-profileCertification-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-dateRange-start-date"
+  },
+  {
+    "keyword": "SelectTakeDateMountCertificate",
+    "locatorType": "xpath",
+    "locatorValue": "(//option[text()='Ocak'])[1]"
+  },
+  {
+    "keyword": "TakeDateYearCertificate",
+    "locatorType": "id",
+    "locatorValue": "date-range-form-component-profileEditFormElement-CERTIFICATION-profileCertification-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-dateRange-start-date-year-select"
+  },
+  {
+    "keyword": "SelectTakeDateYearCertificate",
+    "locatorType": "xpath",
+    "locatorValue": "(//option[text()='2022'])[1]"
+  },
+  {
+    "keyword": "CertificateLicenceNumber",
+    "locatorType": "id",
+    "locatorValue": "single-line-text-form-component-profileEditFormElement-CERTIFICATION-profileCertification-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-licenseNumber"
+  },
+  {
+    "keyword": "CertificateLicenceLink",
+    "locatorType": "id",
+    "locatorValue": "single-line-text-form-component-profileEditFormElement-CERTIFICATION-profileCertification-ACoAAD2XOUwB9o-d55FbYmo7f8cFFpmAtGRTXbo-1-url"
+  },
+  {
+    "keyword": "CertificateOfCompetency",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='Yetenek sınavını yap']"
+  },
+  {
+    "keyword": "AboutSeeMore",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='Bir gönderi başlat']"
+  },
+  {
+    "keyword": "WorkSeeMore",
+    "locatorType": "xpath",
+    "locatorValue": "(//div[@class='pvs-navigation__icon'])[6]"
+  },
+  {
+    "keyword": "AboutSeeMoreText",
+    "locatorType": "xpath",
+    "locatorValue": "(//button[text()='…daha fazla gör'])[1]"
+  },
+  {
+    "keyword": "WorkSeeMoreText",
+    "locatorType": "xpath",
+    "locatorValue": "(//button[text()='…daha fazla gör'])[1]"
+  },
+  {
+    "keyword": "CertificateOfCompetencyButton",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='Yeterlilik belgesini göster']"
+  },
+  {
+    "keyword": "LogoutAccount",
+    "locatorType": "xpath",
+    "locatorValue": "//a[text()='Oturumu Kapat']"
+  },
+  {
+    "keyword": "EndLogOutAccountButton",
+    "locatorType": "css",
+    "locatorValue": "[class='full-width mt4 artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view']"
+  },
+  {
+    "keyword": "SeeCertificateDetailTitle",
+    "locatorType": "xpath",
+    "locatorValue": "//div[@class='footer']"
+  },
+  {
+    "keyword": "xxxxx",
+    "locatorType": "xpath",
+    "locatorValue": "xxxxxx"
+  },
+  {
+    "keyword": "xxxxx",
+    "locatorType": "xpath",
+    "locatorValue": "xxxxxx"
+  },
+  {
+    "keyword": "xxxxx",
+    "locatorType": "xpath",
+    "locatorValue": "xxxxxx"
+  },
+  {
+    "keyword": "xxxxx",
+    "locatorType": "xpath",
+    "locatorValue": "xxxxxx"
+  }
+]

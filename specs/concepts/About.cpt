@@ -1,0 +1,8 @@
+Burhan1925
+
+# Profile hakkında bölümü eklenir.
+* "AddInformationToProfile" 'li elemente tıklanır.
+* "AddAboutToProfile" 'li elemente tıklanır.
+* "SummaryProfile" 'li elemente "Üniversite dönemi içerisinde yazılıma olan ilgim ve merakım sonucunda yazılım test sektörüne atılmaya karar verdim. Testinium şirketinde Yardımcı Yazılım Test Uzmanı olarak işe başladım. Bu süreçte ISTQB, Agile Testing, Java, Selenium, Appium, Gauge, Cucumber, Karate, Postman, Jira, SQL konularında Testinium tarafından eğitimler alıp kendimi geliştirmeye başladım. Katıldığım eğitimler, yapmış olduğum çalışmalarla beraber kendimi okuduğum alanlardan faydalanarak Test sektöründe de geliştirmeye devam ediyorum. https://github.com/Burhan1925" degeri girilir.
+* "4" saniye kadar beklenir.
+* "SaveButtonProfile" 'li elemente tıklanır.

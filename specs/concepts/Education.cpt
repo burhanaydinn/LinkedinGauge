@@ -1,0 +1,27 @@
+Burhan1925
+
+# Profile eğitim bilgileri eklenir.
+* "AddInformationToProfile" 'li elemente tıklanır.
+* "AddEducationToProfile" 'li elemente tıklanır.
+* "SchoolNameToEducation" 'li elemente "Dokuz Eylül Üniversitesi" degeri girilir.
+* "2" saniye kadar beklenir.
+* "DropdownSchoolName" 'li elemente tıklanır.
+* "BachelorDegreeToEducation" 'li elemente "Yüksek Lisans (Master)" degeri girilir.
+* "2" saniye kadar beklenir.
+* "DropdownBachelorDegree" 'li elemente tıklanır.
+* "DepartmentNameToEducation" 'li elemente "İstatistik" degeri girilir.
+* "2" saniye kadar beklenir.
+* "DropdownDepartmentName" 'li elemente tıklanır.
+* "StartDateMonthEducation" 'li elemente tıklanır.
+* "SelectStartDateMonth" 'li elemente tıklanır.
+* "StartDateYearEducation" 'li elemente tıklanır.
+* "SelectStartDateYear" 'li elemente tıklanır.
+* "EndDateMonthEducation" 'li elemente tıklanır.
+* "SelectEndDateMonth" 'li elemente tıklanır.
+* "EndDateYearEducation" 'li elemente tıklanır.
+* "SelectEndDateYear" 'li elemente tıklanır.
+* "GradeEducation" 'li elemente "3.19 / 4.00" degeri girilir.
+* "ActivitiesNameEducation" 'li elemente "Müzik Kulübü" degeri girilir.
+* "DescriptionEducation" 'li elemente "Tez konum “Çok kriterli karar verme yöntemlerinden olan MAUT ve TAOV yöntemlerinin birleştirilmesiyle Türkiye için en faydalı yenilenebilir enerji alternatifinin belirlenmesi” üzerinedir. " degeri girilir.
+* "2" saniye kadar beklenir.
+* "SaveButtonProfile" 'li elemente tıklanır.

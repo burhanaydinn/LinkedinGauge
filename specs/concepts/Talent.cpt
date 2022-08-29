@@ -1,0 +1,15 @@
+Burhan1925
+
+# Profile yetenek bilgileri eklenir.
+* "AddInformationToProfile" 'li elemente tıklanır.
+* "AddTalentToProfile" 'li elemente tıklanır.
+* "TalentName" 'li elemente "Java" degeri girilir.
+* "DropdownTalentJava" 'li elemente tıklanır.
+* "TalentJavaCheckBox" 'li elemente tıklanır.
+* "SaveButtonProfile" 'li elemente tıklanır.
+* "AddTalentToProfile" 'li elemente tıklanır.
+* "TalentName" 'li elemente "Test Otomasyonu" degeri girilir.
+* "DropdownTalentTestAutomation" 'li elemente tıklanır.
+* "TalentAutomationCheckBox" 'li elemente tıklanır.
+* "SaveButtonProfile" 'li elemente tıklanır.
+* "NoAddTalentToProfile" 'li elemente tıklanır.

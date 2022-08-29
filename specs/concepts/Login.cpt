@@ -1,0 +1,14 @@
+Burhan1925.
+
+# Login bilgileri girilir.
+//* "ClosePopup" 'li elemente görünür ise  tıklanır.
+* "LoginAccountButton" 'li elemente tıklanır.
+* "LoginEmailLinkedin" 'li elemente "linkedintestburhan@gmail.com" degeri girilir.
+* "LoginPasswordLinkedin" 'li elemente "1A2s3d4f" degeri girilir.
+* "SingInButtonLinkedin" 'li elemente tıklanır.
+* "CloseMessageButton" 'li elemente tıklanır.
+
+
+
+
+

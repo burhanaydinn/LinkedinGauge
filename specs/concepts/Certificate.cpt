@@ -1,0 +1,18 @@
+Burhan1925
+
+# Profile sertifika bilgileri eklenir.
+* "AddInformationToProfile" 'li elemente tıklanır.
+* "SectionButtonDropdown" 'li elemente tıklanır.
+* "AddCertificateToProfile" 'li elemente tıklanır.
+* "CertificateName" 'li elemente "Yazılım Test Otomasyonu" degeri girilir.
+//* "DropdownCertificate" 'li elemente görünür ise  tıklanır.
+* "CompanyNameCertificate" 'li elemente "BTK Akademi" degeri girilir.
+* "2" saniye kadar beklenir.
+* "DropdownCompanyNameCertificate" 'li elemente tıklanır.
+* "TakeDateMountCertificate" 'li elemente tıklanır.
+* "SelectTakeDateMountCertificate" 'li elemente tıklanır.
+* "TakeDateYearCertificate" 'li elemente tıklanır.
+* "SelectTakeDateYearCertificate" 'li elemente tıklanır.
+* "CertificateLicenceNumber" 'li elemente "AJaSdbqLe4" degeri girilir.
+* "CertificateLicenceLink" 'li elemente "https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=AJaSdbqLe4" degeri girilir.
+* "SaveButtonProfile" 'li elemente tıklanır.
