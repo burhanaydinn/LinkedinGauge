@@ -23,11 +23,17 @@ public class BaseTest {
     @BeforeScenario
     public void setup() {
         ChromeOptions chromeOptions = new ChromeOptions();
+        chromeOptions.addArguments("--incognito");
         chromeOptions.addArguments("--disable-notifications");
-        //chromeOptions.setExperimentalOption("excludeSwitches", Arrays.asList("--disable-popup-blocking"));
         chromeOptions.addArguments("--disable-popup-blocking");
         chromeOptions.addArguments("--disable-translate");
+        chromeOptions.addArguments("--start-maximized");
         chromeOptions.addArguments("--disable-gpu");
+        chromeOptions.addArguments("--ignore,certificate-errors");
+        chromeOptions.addArguments("--allow-insecure-localhost");
+        chromeOptions.addArguments("--acceptInsecureCerts");
+        chromeOptions.addArguments("--disable-blink-features=AutomationControlled");
+        chromeOptions.addArguments("--disable-extensions");
         System.setProperty("webdriver.chrome.driver", "webdriver/chromedriver");
         driver = new ChromeDriver(chromeOptions);
         getJSExecutor = (JavascriptExecutor) driver;
