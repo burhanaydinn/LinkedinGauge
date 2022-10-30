@@ -29,7 +29,7 @@ public class BaseTest {
         chromeOptions.addArguments("--disable-translate");
         chromeOptions.addArguments("--start-maximized");
         chromeOptions.addArguments("--disable-gpu");
-        chromeOptions.addArguments("--ignore,certificate-errors");
+        chromeOptions.addArguments("--ignore-certificate-errors");
         chromeOptions.addArguments("--allow-insecure-localhost");
         chromeOptions.addArguments("--acceptInsecureCerts");
         chromeOptions.addArguments("--disable-blink-features=AutomationControlled");
